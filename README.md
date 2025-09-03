@@ -15,7 +15,7 @@ The goal of this project is to contribute to road safety by identifying riders w
 - Preprocessed and split data into training and validation sets.
 - Used **MobileNetV2** for transfer learning with a custom classification head.
 - Applied **image augmentation** to improve model generalization.
-- Achieved ~78% validation accuracy.
+- Achieved ~85% validation accuracy.
 - Evaluated with confusion matrix and tested on custom real-world images.
 
 ---
